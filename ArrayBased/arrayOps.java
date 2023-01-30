@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-class arrayOps {
+class ArrayOps {
   static int searchElement(int[] arr, int toSearch) {
     for(int i = 0; i < arr.length; i++) {
       if(arr[i] == toSearch) {

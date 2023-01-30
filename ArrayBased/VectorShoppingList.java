@@ -1,3 +1,4 @@
+//~ A simple Java program to explore Vectors by simulating a Shopping List and its functions 
 import java.util.Scanner;
 import java.util.Vector;
 
